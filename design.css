@@ -14,3 +14,8 @@ h1{
 .btn{
   width: 100%;
 }
+
+#calculator{
+  max-width: 2rem;
+  max-height: 2rem;
+}
